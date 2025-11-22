@@ -1,0 +1,1 @@
+import{n as e,t}from"./index-Cu9sMuhL.js";var n=e(),r=t();function i(){let[e,t]=(0,n.useState)(0);return(0,r.jsxs)(`div`,{children:[(0,r.jsx)(`h1`,{children:`Stashalore`}),(0,r.jsxs)(`button`,{onClick:()=>t(e=>e+1),children:[`You clicked `,e,` times`]})]})}export{i as Main};
